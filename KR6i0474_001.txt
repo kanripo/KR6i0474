@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:34.142227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:43
 #+TITLE: 佛說賢者五福德經
 #+PROPERTY: CBETA_ID T17n0777
 #+PROPERTY: ID KR6i0474
