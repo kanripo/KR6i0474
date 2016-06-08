@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:33.035501
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:43
 #+TITLE: 佛說賢者五福德經
 #+PROPERTY: CBETA_ID T17n0777
 #+PROPERTY: ID KR6i0474
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 777
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0474_T_000-0714a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0474_T_001-0714a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.777¶
-
- 《佛說賢者五福德經》¶
+No. 777¶
+《佛說賢者五福德經》¶
 ¶
 西晉河內沙門白法祖譯¶
 
